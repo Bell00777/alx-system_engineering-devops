@@ -10,4 +10,4 @@ Write a script that adds execute permission to the owner and the group owner, an
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
-
+9.Write a script that sets the mode of the file hello to this
